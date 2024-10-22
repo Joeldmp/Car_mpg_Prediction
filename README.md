@@ -1,0 +1,1 @@
+Hello, im Joel a junior data scientist, currently im working on various datasets an aplying models for best results, making my work visible on github. Im open to any positive comments, help, opinions that can help me on my path.
