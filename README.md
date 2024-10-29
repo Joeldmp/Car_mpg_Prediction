@@ -1,1 +1,2 @@
-Hello, im a student data scientist, currently im working on various datasets an aplying models for best results, making my work visible on github. Im open to any comments, help, opinions that can help me on my path.
+# Model description
+Can predict what attributes is the most determinant to set the price of a car.
